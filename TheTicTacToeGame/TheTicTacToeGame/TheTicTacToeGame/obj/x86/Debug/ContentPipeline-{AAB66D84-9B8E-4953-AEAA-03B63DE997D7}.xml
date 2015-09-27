@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\Segoe UI Mono.spritefont</Source>
+      <Name>Fonts\Segoe UI Mono</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rahul\Documents\Visual Studio 2013\Projects\TheTicTacToeGame\TheTicTacToeGame\TheTicTacToeGame\bin\x86\Debug\Content\Fonts\Segoe UI Mono.xnb</Output>
+      <Time>2015-02-02T19:42:36.7803523-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Xbox-360.jpg</Source>
+      <Name>Images\Xbox-360</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rahul\Documents\Visual Studio 2013\Projects\TheTicTacToeGame\TheTicTacToeGame\TheTicTacToeGame\bin\x86\Debug\Content\Images\Xbox-360.xnb</Output>
+      <Time>2015-02-02T19:35:45.1122494-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\wallpaper.jpg</Source>
+      <Name>Images\wallpaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Rahul\Documents\Visual Studio 2013\Projects\TheTicTacToeGame\TheTicTacToeGame\TheTicTacToeGame\bin\x86\Debug\Content\Images\wallpaper.xnb</Output>
+      <Time>2015-02-04T01:15:30.9372281-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{AAB66D84-9B8E-4953-AEAA-03B63DE997D7}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Rahul\Documents\Visual Studio 2013\Projects\TheTicTacToeGame\TheTicTacToeGame\TheTicTacToeGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Rahul\Documents\Visual Studio 2013\Projects\TheTicTacToeGame\TheTicTacToeGame\TheTicTacToeGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Rahul\Documents\Visual Studio 2013\Projects\TheTicTacToeGame\TheTicTacToeGame\TheTicTacToeGame\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Rahul\Documents\Visual Studio 2013\Projects\TheTicTacToeGame\TheTicTacToeGame\TheTicTacToeGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-09-26T23:22:50.7584878-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
